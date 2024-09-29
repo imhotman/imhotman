@@ -4,7 +4,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F______&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### 안녕하세요? 언제나 최선을 다하여 DevOps Engineer로 성장해나가고 있는 김현진입니다!
+### 안녕하세요? 저의 깃허브에 오신 것을 환영합니다!
 
 <!-- Body -->
 
