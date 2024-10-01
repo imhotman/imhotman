@@ -37,6 +37,6 @@
 ![slack](https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white) -->
 
 ### 🚌 Top Langs & Algorithm
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimguswls23&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imhotman&layout=compact)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimguswls23)](https://solved.ac/profile/kimguswls23)
